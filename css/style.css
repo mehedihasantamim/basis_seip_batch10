@@ -1,0 +1,40 @@
+#heading2{
+    color: #628E90;
+}
+#para2{
+    background-color: #628E90;
+    color: #FFCACA;
+    text-align: justify;
+}
+#heading3{
+    color: #47B5FF;
+}
+#para3{
+    background-color: #47B5FF;
+    color: #FFD6EC;
+    text-align: justify;
+}
+#heading4{
+    color: #8758FF;
+}
+#para4{
+    background-color: #8758FF;
+    color: #CDF0EA;
+    text-align: justify;
+}
+.heading{
+    color: #874C62;
+}
+.para{
+    background-color: #874C62;
+    color: #A7D2CB;
+    text-align: justify;
+}
+h3{
+    color: #5BB318;
+}
+p{
+    background-color: #5BB318;
+    color: #F5E8E4;
+    text-align: justify;
+}
